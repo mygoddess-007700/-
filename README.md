@@ -1,5 +1,3 @@
-# zoumigong
-´´×÷ÐÄµÃ¡¢²»×ãÓëÊÕ»ñ
-Çë¼ûÎÒµÄ²©¿Í£ºwww.mygoddess.icu
-´úÂëÓë×¢ÊÍ
-Çë¼ûÎÒµÄgithub£ºmygoddess-007700
+# èµ°è¿·å®«
+## è¯­è¨€ä½¿ç”¨C++ï¼Œæ•°æ®ç»“æž„ä½¿ç”¨æ ˆ
+## æ³¨ï¼šåŽç»­å¯ä»¥å¼€å‘æˆæ¸¸æˆ
